@@ -62,8 +62,7 @@
               "RelativeToolTip": "BankAccountManagementAPI\\Models\\AccountTransactionInsert.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T20:24:54.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T20:24:54.818Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "BankAccountManagementAPI\\Models\\UserAccountInsert.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T20:25:37.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T20:25:37.701Z"
             },
             {
               "$type": "Document",
@@ -86,7 +84,7 @@
               "RelativeDocumentMoniker": "BankAccountManagementAPI\\Controllers\\UserAccountController.cs",
               "ToolTip": "C:\\Users\\Jeffe\\OneDrive\\Desktop\\Prueba T\u00E9cnica LAFISE\\BankAccountManagementAPI\\BankAccountManagementAPI\\Controllers\\UserAccountController.cs",
               "RelativeToolTip": "BankAccountManagementAPI\\Controllers\\UserAccountController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAADQAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T20:02:02.196Z",
               "EditorCaption": ""
@@ -101,8 +99,7 @@
               "RelativeToolTip": "BankAccountManagementAPI\\Models\\AccountTransaction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T19:41:23.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T19:41:23.936Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "BankAccountManagementAPI\\Models\\UserAccount.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T19:29:47.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T19:29:47.649Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "BankAccountManagementAPI\\Controllers\\AccountTransactionController.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T23:20:57.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T23:20:57.593Z"
             },
             {
               "$type": "Document",
@@ -140,8 +135,7 @@
               "RelativeToolTip": "BankAccountManagementAPI\\Helpers\\Responses.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T23:15:24.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T23:15:24.788Z"
             },
             {
               "$type": "Document",
@@ -153,8 +147,7 @@
               "RelativeToolTip": "BankAccountManagementAPITesting\\UserAccountTesting.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAqwBoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T03:48:05.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T03:48:05.299Z"
             },
             {
               "$type": "Document",
@@ -166,8 +159,7 @@
               "RelativeToolTip": "BankAccountManagementAPITesting\\AccountTransactionTesting.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAowDsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T04:08:12.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T04:08:12.067Z"
             },
             {
               "$type": "Document",

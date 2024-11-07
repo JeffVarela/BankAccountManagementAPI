@@ -20,7 +20,6 @@ namespace BankAccountManagementAPITesting
 
             var newAccount = new UserAccountInsert()
             {
-                AccountNumber = 1224,
                 Name = "Juan",
                 MiddleName = "José",
                 LastName = "Mendoza",
