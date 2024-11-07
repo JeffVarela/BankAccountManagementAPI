@@ -12,6 +12,8 @@
             public const string NotFound = "Movimiento no encontrado";
 
             public const string NoBalance = "Saldo insuficiente";
+
+            public const string InvalidAmount = "El monto de la transacción debe ser mayor a 1";
         }
     }
 }

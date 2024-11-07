@@ -44,6 +44,10 @@ namespace BankAccountManagementAPI.Controllers
         [HttpPost("deposit")]
         public ActionResult CreateDeposit(AccountTransactionInsert accountTransactionInsert)
         {
+            // validar que el monto de la transacción sea mayor a 1
+            if (accountTransactionInsert.Amount < 1)
+                return BadRequest(Responses.AccountTransaction.InvalidAmount);
+
             var account = AccountsDataBase.Current.UserAccounts.FirstOrDefault(a => a.AccountNumber == accountTransactionInsert.AccountNumber);
 
             // validar que exista la cuenta
@@ -51,7 +55,7 @@ namespace BankAccountManagementAPI.Controllers
                 return NotFound(Responses.UserAccount.NotFound);
 
             // Generamos el id de la transacción
-            var transactionId = account.Transactions.Count > 0 ? (account.Transactions.Max(a => a.TransactionId)) : 1;
+            var transactionId = account.Transactions.Count > 0 ? (account.Transactions.Max(a => a.TransactionId) + 1) : 1;
 
             // Calculamos el nuevo balance
             var newBalance = account.Balance + accountTransactionInsert.Amount;
@@ -77,6 +81,10 @@ namespace BankAccountManagementAPI.Controllers
         [HttpPost("withdraw")]
         public ActionResult CreateWithdraw(AccountTransactionInsert accountTransactionInsert)
         {
+            // validar que el monto de la transacción sea mayor a 1
+            if (accountTransactionInsert.Amount < 1)
+                return BadRequest(Responses.AccountTransaction.InvalidAmount);
+
             var account = AccountsDataBase.Current.UserAccounts.FirstOrDefault(a => a.AccountNumber == accountTransactionInsert.AccountNumber);
 
             // validar que exista la cuenta
@@ -91,7 +99,7 @@ namespace BankAccountManagementAPI.Controllers
             var newBalance = account.Balance - accountTransactionInsert.Amount;
 
             // Generamos el id de la transacción
-            var transactionId = account.Transactions.Count > 0 ? (account.Transactions.Max(a => a.TransactionId)) : 1;
+            var transactionId = account.Transactions.Count > 0 ? (account.Transactions.Max(a => a.TransactionId) + 1) : 1;
 
             // Creamos el registro del movimiento y actualizamos el balance
             var newTransaction = new AccountTransaction()

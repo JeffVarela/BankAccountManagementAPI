@@ -9,6 +9,7 @@ namespace BankAccountManagementAPI.Controllers
     [Route("api/[controller]")]
     public class UserAccountController : ControllerBase
     {
+        // GetUserAccounts retorna una lista de todas las cuentas de los usuarios
         [HttpGet]
         public ActionResult<IEnumerable<UserAccount>> GetUserAccounts()
         {
@@ -16,6 +17,7 @@ namespace BankAccountManagementAPI.Controllers
             return Ok(accounts);
         }
 
+        // GetUserAccount retorna la información de la cuenta del usuario con forme a su id de cuenta
         [HttpGet("{accountId}")]
         public ActionResult<UserAccount> GetUserAccount(int accountId) 
         {
@@ -47,10 +49,19 @@ namespace BankAccountManagementAPI.Controllers
         [HttpPost]
         public ActionResult CreateAccount(UserAccountInsert userAccountInsert)
         {
+            // Validamos que el monto inicial sea mayor a 1
+            if (userAccountInsert.InicialAmount < 1)
+                return BadRequest(Responses.AccountTransaction.InvalidAmount);
+
             // Generamos el id de la cuenta
             var accounts = AccountsDataBase.Current.UserAccounts;
             var accountId = accounts.Count > 0 ? (accounts.Max(a => a.Id) + 1) : 1;
 
+            // Generamos el número de cuenta único
+            int accountNumberCounter = 1000;
+            var accountNumber = accounts.Count > 0 ? (accounts.Max(a => a.AccountNumber) + 1) : (accountNumberCounter + 1);
+
+            // Creamos la nueva cuenta del usuario
             var newAccount = new UserAccount()
             {
                 Id = accountId,
@@ -58,11 +69,12 @@ namespace BankAccountManagementAPI.Controllers
                 MiddleName = userAccountInsert.MiddleName,
                 LastName = userAccountInsert.LastName,
                 SecontLastName = userAccountInsert.SecontLastName,
-                AccountNumber = userAccountInsert.AccountNumber,
+                AccountNumber = accountNumber,
                 Currency = userAccountInsert.Currency,
                 Balance = userAccountInsert.InicialAmount,
                 Transactions =
                 {
+                    // creamos el primer movimiento del balance
                     new AccountTransaction()
                     {
                         // El id del primer movimiento siempre será 1 y el típo será depósito

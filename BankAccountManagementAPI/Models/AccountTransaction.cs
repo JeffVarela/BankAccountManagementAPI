@@ -9,5 +9,7 @@
         public decimal Amount { get; set; } = 0.0m;
 
         public decimal Balance { get; set; } = 0.0m;
+
+        public DateTime CreationDate { get; set; } = DateTime.Now;
     }
 }

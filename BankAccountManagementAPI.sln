@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccountManagementAPI", "BankAccountManagementAPI\BankAccountManagementAPI.csproj", "{D729D273-4A96-46AC-8320-CD03D0799D61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccountManagementAPITesting", "BankAccountManagementAPITesting\BankAccountManagementAPITesting.csproj", "{C8587C32-53C1-4CF8-A11B-4973A86758A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccountManagementAPITesting", "BankAccountManagementAPITesting\BankAccountManagementAPITesting.csproj", "{C8587C32-53C1-4CF8-A11B-4973A86758A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
