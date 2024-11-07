@@ -7,28 +7,28 @@
       "RelativeMoniker": "D:0:0:{C8587C32-53C1-4CF8-A11B-4973A86758A3}|BankAccountManagementAPITesting\\BankAccountManagementAPITesting.csproj|solutionrelative:bankaccountmanagementapitesting\\accounttransactiontesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8587C32-53C1-4CF8-A11B-4973A86758A3}|BankAccountManagementAPITesting\\BankAccountManagementAPITesting.csproj|c:\\users\\jeffe\\onedrive\\desktop\\prueba t\u00E9cnica lafise\\bankaccountmanagementapi\\bankaccountmanagementapitesting\\useraccounttesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8587C32-53C1-4CF8-A11B-4973A86758A3}|BankAccountManagementAPITesting\\BankAccountManagementAPITesting.csproj|solutionrelative:bankaccountmanagementapitesting\\useraccounttesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D729D273-4A96-46AC-8320-CD03D0799D61}|BankAccountManagementAPI\\BankAccountManagementAPI.csproj|c:\\users\\jeffe\\onedrive\\desktop\\prueba t\u00E9cnica lafise\\bankaccountmanagementapi\\bankaccountmanagementapi\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D729D273-4A96-46AC-8320-CD03D0799D61}|BankAccountManagementAPI\\BankAccountManagementAPI.csproj|solutionrelative:bankaccountmanagementapi\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D729D273-4A96-46AC-8320-CD03D0799D61}|BankAccountManagementAPI\\BankAccountManagementAPI.csproj|c:\\users\\jeffe\\onedrive\\desktop\\prueba t\u00E9cnica lafise\\bankaccountmanagementapi\\bankaccountmanagementapi\\controllers\\accounttransactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D729D273-4A96-46AC-8320-CD03D0799D61}|BankAccountManagementAPI\\BankAccountManagementAPI.csproj|solutionrelative:bankaccountmanagementapi\\controllers\\accounttransactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8587C32-53C1-4CF8-A11B-4973A86758A3}|BankAccountManagementAPITesting\\BankAccountManagementAPITesting.csproj|c:\\users\\jeffe\\onedrive\\desktop\\prueba t\u00E9cnica lafise\\bankaccountmanagementapi\\bankaccountmanagementapitesting\\useraccounttesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8587C32-53C1-4CF8-A11B-4973A86758A3}|BankAccountManagementAPITesting\\BankAccountManagementAPITesting.csproj|solutionrelative:bankaccountmanagementapitesting\\useraccounttesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D729D273-4A96-46AC-8320-CD03D0799D61}|BankAccountManagementAPI\\BankAccountManagementAPI.csproj|c:\\users\\jeffe\\onedrive\\desktop\\prueba t\u00E9cnica lafise\\bankaccountmanagementapi\\bankaccountmanagementapi\\models\\accounttransactioninsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D729D273-4A96-46AC-8320-CD03D0799D61}|BankAccountManagementAPI\\BankAccountManagementAPI.csproj|solutionrelative:bankaccountmanagementapi\\models\\accounttransactioninsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D729D273-4A96-46AC-8320-CD03D0799D61}|BankAccountManagementAPI\\BankAccountManagementAPI.csproj|c:\\users\\jeffe\\onedrive\\desktop\\prueba t\u00E9cnica lafise\\bankaccountmanagementapi\\bankaccountmanagementapi\\controllers\\useraccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D729D273-4A96-46AC-8320-CD03D0799D61}|BankAccountManagementAPI\\BankAccountManagementAPI.csproj|solutionrelative:bankaccountmanagementapi\\controllers\\useraccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D729D273-4A96-46AC-8320-CD03D0799D61}|BankAccountManagementAPI\\BankAccountManagementAPI.csproj|c:\\users\\jeffe\\onedrive\\desktop\\prueba t\u00E9cnica lafise\\bankaccountmanagementapi\\bankaccountmanagementapi\\models\\useraccountinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D729D273-4A96-46AC-8320-CD03D0799D61}|BankAccountManagementAPI\\BankAccountManagementAPI.csproj|solutionrelative:bankaccountmanagementapi\\models\\useraccountinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D729D273-4A96-46AC-8320-CD03D0799D61}|BankAccountManagementAPI\\BankAccountManagementAPI.csproj|c:\\users\\jeffe\\onedrive\\desktop\\prueba t\u00E9cnica lafise\\bankaccountmanagementapi\\bankaccountmanagementapi\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D729D273-4A96-46AC-8320-CD03D0799D61}|BankAccountManagementAPI\\BankAccountManagementAPI.csproj|solutionrelative:bankaccountmanagementapi\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D729D273-4A96-46AC-8320-CD03D0799D61}|BankAccountManagementAPI\\BankAccountManagementAPI.csproj|c:\\users\\jeffe\\onedrive\\desktop\\prueba t\u00E9cnica lafise\\bankaccountmanagementapi\\bankaccountmanagementapi\\controllers\\useraccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D729D273-4A96-46AC-8320-CD03D0799D61}|BankAccountManagementAPI\\BankAccountManagementAPI.csproj|solutionrelative:bankaccountmanagementapi\\controllers\\useraccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D729D273-4A96-46AC-8320-CD03D0799D61}|BankAccountManagementAPI\\BankAccountManagementAPI.csproj|c:\\users\\jeffe\\onedrive\\desktop\\prueba t\u00E9cnica lafise\\bankaccountmanagementapi\\bankaccountmanagementapi\\models\\accounttransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -60,40 +60,40 @@
               "RelativeDocumentMoniker": "BankAccountManagementAPITesting\\AccountTransactionTesting.cs",
               "ToolTip": "C:\\Users\\Jeffe\\OneDrive\\Desktop\\Prueba T\u00E9cnica LAFISE\\BankAccountManagementAPI\\BankAccountManagementAPITesting\\AccountTransactionTesting.cs*",
               "RelativeToolTip": "BankAccountManagementAPITesting\\AccountTransactionTesting.cs*",
-              "ViewState": "AgIAABwAAAAAAAAAAAAqwDAAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAiwIIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T04:08:12.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AccountTransactionController.cs",
               "DocumentMoniker": "C:\\Users\\Jeffe\\OneDrive\\Desktop\\Prueba T\u00E9cnica LAFISE\\BankAccountManagementAPI\\BankAccountManagementAPI\\Controllers\\AccountTransactionController.cs",
               "RelativeDocumentMoniker": "BankAccountManagementAPI\\Controllers\\AccountTransactionController.cs",
               "ToolTip": "C:\\Users\\Jeffe\\OneDrive\\Desktop\\Prueba T\u00E9cnica LAFISE\\BankAccountManagementAPI\\BankAccountManagementAPI\\Controllers\\AccountTransactionController.cs",
               "RelativeToolTip": "BankAccountManagementAPI\\Controllers\\AccountTransactionController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAASwCwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T23:20:57.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserAccountTesting.cs",
               "DocumentMoniker": "C:\\Users\\Jeffe\\OneDrive\\Desktop\\Prueba T\u00E9cnica LAFISE\\BankAccountManagementAPI\\BankAccountManagementAPITesting\\UserAccountTesting.cs",
               "RelativeDocumentMoniker": "BankAccountManagementAPITesting\\UserAccountTesting.cs",
               "ToolTip": "C:\\Users\\Jeffe\\OneDrive\\Desktop\\Prueba T\u00E9cnica LAFISE\\BankAccountManagementAPI\\BankAccountManagementAPITesting\\UserAccountTesting.cs",
               "RelativeToolTip": "BankAccountManagementAPITesting\\UserAccountTesting.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAqwAgAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T03:48:05.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AccountTransactionInsert.cs",
               "DocumentMoniker": "C:\\Users\\Jeffe\\OneDrive\\Desktop\\Prueba T\u00E9cnica LAFISE\\BankAccountManagementAPI\\BankAccountManagementAPI\\Models\\AccountTransactionInsert.cs",
               "RelativeDocumentMoniker": "BankAccountManagementAPI\\Models\\AccountTransactionInsert.cs",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "UserAccountInsert.cs",
               "DocumentMoniker": "C:\\Users\\Jeffe\\OneDrive\\Desktop\\Prueba T\u00E9cnica LAFISE\\BankAccountManagementAPI\\BankAccountManagementAPI\\Models\\UserAccountInsert.cs",
               "RelativeDocumentMoniker": "BankAccountManagementAPI\\Models\\UserAccountInsert.cs",
@@ -119,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UserAccount.cs",
               "DocumentMoniker": "C:\\Users\\Jeffe\\OneDrive\\Desktop\\Prueba T\u00E9cnica LAFISE\\BankAccountManagementAPI\\BankAccountManagementAPI\\Models\\UserAccount.cs",
               "RelativeDocumentMoniker": "BankAccountManagementAPI\\Models\\UserAccount.cs",
@@ -127,12 +127,11 @@
               "RelativeToolTip": "BankAccountManagementAPI\\Models\\UserAccount.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T19:29:47.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T19:29:47.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserAccountController.cs",
               "DocumentMoniker": "C:\\Users\\Jeffe\\OneDrive\\Desktop\\Prueba T\u00E9cnica LAFISE\\BankAccountManagementAPI\\BankAccountManagementAPI\\Controllers\\UserAccountController.cs",
               "RelativeDocumentMoniker": "BankAccountManagementAPI\\Controllers\\UserAccountController.cs",
@@ -140,8 +139,7 @@
               "RelativeToolTip": "BankAccountManagementAPI\\Controllers\\UserAccountController.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T20:02:02.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T20:02:02.196Z"
             },
             {
               "$type": "Document",
@@ -153,8 +151,7 @@
               "RelativeToolTip": "BankAccountManagementAPI\\Models\\AccountTransaction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T19:41:23.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T19:41:23.936Z"
             },
             {
               "$type": "Document",

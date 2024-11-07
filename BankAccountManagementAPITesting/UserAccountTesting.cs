@@ -13,7 +13,7 @@ namespace BankAccountManagementAPITesting
             _userAccountController = new UserAccountController();
         }
 
-        [Fact(DisplayName = "La creación de la cuenta con el saldo inicial")]
+        [Fact(DisplayName = "Debe crear un saldo inicial al crear la cuenta del usuario")]
         public void InicialBalance_Exists()
         {
             decimal InicialAmount = 1000.00m;
@@ -21,10 +21,10 @@ namespace BankAccountManagementAPITesting
             var newAccount = new UserAccountInsert()
             {
                 AccountNumber = 1224,
-                Name = "Jefferson",
-                MiddleName = "Javier",
-                LastName = "Varela",
-                SecontLastName = "Quiroz",
+                Name = "Juan",
+                MiddleName = "José",
+                LastName = "Mendoza",
+                SecontLastName = "Zapata",
                 Currency = UserAccount.ECurrency.NIO,
                 InicialAmount = InicialAmount
             };

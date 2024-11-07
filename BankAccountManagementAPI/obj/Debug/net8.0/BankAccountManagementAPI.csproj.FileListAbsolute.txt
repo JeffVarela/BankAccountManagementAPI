@@ -30,3 +30,4 @@ C:\Users\Jeffe\OneDrive\Desktop\Prueba Técnica LAFISE\BankAccountManagementAPI\
 C:\Users\Jeffe\OneDrive\Desktop\Prueba Técnica LAFISE\BankAccountManagementAPI\BankAccountManagementAPI\obj\Debug\net8.0\BankAccountManagementAPI.pdb
 C:\Users\Jeffe\OneDrive\Desktop\Prueba Técnica LAFISE\BankAccountManagementAPI\BankAccountManagementAPI\obj\Debug\net8.0\BankAccountManagementAPI.genruntimeconfig.cache
 C:\Users\Jeffe\OneDrive\Desktop\Prueba Técnica LAFISE\BankAccountManagementAPI\BankAccountManagementAPI\obj\Debug\net8.0\ref\BankAccountManagementAPI.dll
+C:\Users\Jeffe\OneDrive\Desktop\Prueba Técnica LAFISE\BankAccountManagementAPI\BankAccountManagementAPI\obj\Debug\net8.0\BankAccountManagementAPI.sourcelink.json

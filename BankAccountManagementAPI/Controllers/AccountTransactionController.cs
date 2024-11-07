@@ -75,7 +75,7 @@ namespace BankAccountManagementAPI.Controllers
 
         // CreateDeposit crea un nuevo retiro
         [HttpPost("withdraw")]
-        public ActionResult<AccountTransaction> CreateWithdraw(AccountTransactionInsert accountTransactionInsert)
+        public ActionResult CreateWithdraw(AccountTransactionInsert accountTransactionInsert)
         {
             var account = AccountsDataBase.Current.UserAccounts.FirstOrDefault(a => a.AccountNumber == accountTransactionInsert.AccountNumber);
 
