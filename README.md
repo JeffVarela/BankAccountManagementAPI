@@ -61,3 +61,6 @@
 
 **Devolverá la información de la cuenta del usuario con su saldo actual y el resumen de transacciones.**
 
+## Pruebas unitarias
+**Las pruebas unitarias se realizaron con xUnit en el proyecto `BankAccountManagementAPITesting` y se pueden ejecutar con el explorador de pruebas de visual Studio (pestaña ver -> explorador de pruebas**
+
