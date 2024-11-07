@@ -1,0 +1,189 @@
+[
+  {
+    "ContainingType": "BankAccountManagementAPI.Controllers.AccountTransactionController",
+    "Method": "GetTransaction",
+    "RelativePath": "api/AccountTransaction/{accountNumber}/{transactionId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountNumber",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "transactionId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BankAccountManagementAPI.Models.AccountTransaction",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BankAccountManagementAPI.Controllers.AccountTransactionController",
+    "Method": "CreateDeposit",
+    "RelativePath": "api/AccountTransaction/deposit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountTransactionInsert",
+        "Type": "BankAccountManagementAPI.Models.AccountTransactionInsert",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAccountManagementAPI.Controllers.AccountTransactionController",
+    "Method": "ShowRecord",
+    "RelativePath": "api/AccountTransaction/record/{accountNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountNumber",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BankAccountManagementAPI.Models.AccountTransaction",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BankAccountManagementAPI.Controllers.AccountTransactionController",
+    "Method": "CreateWithdraw",
+    "RelativePath": "api/AccountTransaction/withdraw",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountTransactionInsert",
+        "Type": "BankAccountManagementAPI.Models.AccountTransactionInsert",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BankAccountManagementAPI.Models.AccountTransaction",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BankAccountManagementAPI.Controllers.UserAccountController",
+    "Method": "GetUserAccounts",
+    "RelativePath": "api/UserAccount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[BankAccountManagementAPI.Models.UserAccount, BankAccountManagementAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BankAccountManagementAPI.Controllers.UserAccountController",
+    "Method": "CreateAccount",
+    "RelativePath": "api/UserAccount",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userAccountInsert",
+        "Type": "BankAccountManagementAPI.Models.UserAccountInsert",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankAccountManagementAPI.Controllers.UserAccountController",
+    "Method": "GetUserAccount",
+    "RelativePath": "api/UserAccount/{accountId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BankAccountManagementAPI.Models.UserAccount",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BankAccountManagementAPI.Controllers.UserAccountController",
+    "Method": "GetUserBalance",
+    "RelativePath": "api/UserAccount/balance/{accountNumber}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "accountNumber",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BankAccountManagementAPI.Models.UserAccount",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
